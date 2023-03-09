@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aarts\\source\\repos\\Real\\Real\\Real.csproj": {}
+    "C:\\Users\\cam10\\OneDrive\\Documents\\Sharmaesthetics-main\\Real\\Real\\Real.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aarts\\source\\repos\\Real\\Real\\Real.csproj": {
+    "C:\\Users\\cam10\\OneDrive\\Documents\\Sharmaesthetics-main\\Real\\Real\\Real.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aarts\\source\\repos\\Real\\Real\\Real.csproj",
+        "projectUniqueName": "C:\\Users\\cam10\\OneDrive\\Documents\\Sharmaesthetics-main\\Real\\Real\\Real.csproj",
         "projectName": "Real",
-        "projectPath": "C:\\Users\\aarts\\source\\repos\\Real\\Real\\Real.csproj",
-        "packagesPath": "C:\\Users\\aarts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aarts\\source\\repos\\Real\\Real\\obj\\",
+        "projectPath": "C:\\Users\\cam10\\OneDrive\\Documents\\Sharmaesthetics-main\\Real\\Real\\Real.csproj",
+        "packagesPath": "C:\\Users\\cam10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cam10\\OneDrive\\Documents\\Sharmaesthetics-main\\Real\\Real\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aarts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cam10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
